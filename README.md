@@ -5,4 +5,4 @@ This project is a static but interactive "Bundle Builder" UI, created with vanil
 
 ## Project Link
 
-Live Demo: [Bundle Builder UI]() 
+Live Demo: [Bundle Builder UI](https://bundlebuilderwebsite.netlify.app/) 
