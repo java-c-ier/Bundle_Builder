@@ -41,7 +41,7 @@ The interface is **fully responsive**:
 ## 📦 Getting Started
 
 ### 1. Clone the repository
-- git clone git@github.com:java-c-ier/Bundle_Builder.git
+- git clone [git@github.com:java-c-ier/Bundle_Builder.git](git@github.com:java-c-ier/Bundle_Builder.git)
 - cd Bundle_Builder
 - This is a pure HTML/CSS/JavaScript project — no build tools required.
 - You can open the index.html file directly in your browser using Live Server extension.
