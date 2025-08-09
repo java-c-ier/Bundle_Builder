@@ -28,6 +28,7 @@ The interface is **fully responsive**:
 ---
 
 ## 📂 Folder Structure
+```tree
 ├── assets
 │ ├── icons/ # SVG or PNG icons
 │ └── photos/ # Product images
@@ -35,13 +36,14 @@ The interface is **fully responsive**:
 ├── README.md # Project documentation
 ├── script.js # JavaScript logic
 └── style.css # Styling
+```
 
 ---
 
 ## 📦 Getting Started
 
 ### 1. Clone the repository
-- git clone git@github.com:java-c-ier/Bundle_Builder.git
+- git clone [git@github.com:java-c-ier/Bundle_Builder.git]
 - cd Bundle_Builder
 - This is a pure HTML/CSS/JavaScript project — no build tools required.
 - You can open the index.html file directly in your browser using Live Server extension.
