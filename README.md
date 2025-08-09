@@ -28,6 +28,7 @@ The interface is **fully responsive**:
 ---
 
 ## 📂 Folder Structure
+```tree
 ├── assets
 │ ├── icons/ # SVG or PNG icons
 │ └── photos/ # Product images
@@ -35,6 +36,7 @@ The interface is **fully responsive**:
 ├── README.md # Project documentation
 ├── script.js # JavaScript logic
 └── style.css # Styling
+```
 
 ---
 
