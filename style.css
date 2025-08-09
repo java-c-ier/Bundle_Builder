@@ -335,9 +335,10 @@ body {
   }
 }
 
-@media (max--width: 800px) {
+@media (max-width: 900px) {
   .sidebar {
     flex: 100%;
+    max-width: 100%;
   }
   .bundle-builder-container {
     flex-direction: column;
